@@ -337,3 +337,4 @@ exec_always xset dpms 0 0 2000
 exec_always --no-startup-id udiskie
 exec --no-startup-id udiskie -t
 
+# Another addition
